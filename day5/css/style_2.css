@@ -1,0 +1,27 @@
+.bar{
+    width: 200px;
+    height: 900px;
+    float: left;
+    background: ;
+}
+h1{
+    text-align: center;
+}
+/* h1{
+
+    float: left;
+} */
+.basic h3{
+    width: 200px;
+    float: left;
+}
+.communication h3{
+    width: 300px;
+    float: left;
+}
+.able{
+    height: 100px;
+}
+.main{
+    float: left;
+}
