@@ -1,0 +1,29 @@
+*{
+    margin: 0 0;
+    padding: 0 0;
+}
+.bar{
+    line-height: 80px;
+    height: 80px;
+    background:gray;
+}
+#item1,#item2,#item3,#item4,#item5{
+    width: 200px;
+    height: 200px;
+    background: rgb(190, 189, 189);
+    float: left;
+    border: 1px solid rgb(219, 215, 215);
+    line-height: 200px;
+    text-align: center;
+}
+#item6,#item7,#item8,#item9,#item10{
+    border:1px solid  rgb(219, 215, 215);
+}
+.basic h3{
+    width: 200px;
+    float: left;
+}
+.communication h3{
+    width: 300px;
+    float: left;
+}
